@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Virtual Flower Bouquet</title>
+    <style>
+        body {
+            text-align: center;
+            background-color: #f0f8ff;
+            font-family: Arial, sans-serif;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <h1>For You 💐</h1>
+    <p>Here's a virtual flower bouquet to brighten your day!</p>
+    <img src="https://drive.google.com/file/d/1NN9FDpDuuuRIty1f6BjuHDy2p1i6AfFX/view?usp=sharing" alt="Virtual Flower Bouquet">
+    <p>🌸🌼🌺</p>
+</body>
+</html>
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Virtual Flower Bouquet</title>
+    <style>
+        body {
+            text-align: center;
+            background-color: #f0f8ff;
+            font-family: Arial, sans-serif;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <h1>For You 💐</h1>
+    <p>Here's a virtual flower bouquet to brighten your day!</p>
+    <img src="https://drive.google.com/uc?export=view&id=1NN9FDpDuuuRIty1f6BjuHDy2p1i6AfFX" alt="Virtual Flower Bouquet">
+    <p>🌸🌼🌺</p>
+</body>
+</html>
